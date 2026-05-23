@@ -4,6 +4,8 @@
 
 The Progressive Student Dashboard API is a RESTful service built with Express.js and MongoDB. It provides endpoints for student progress tracking, mentor analytics, course management, and activity logging with role-based access control.
 
+###  For seeding the data run: npm run seed  ###
+
 ### Key Features
 - JWT-based authentication with email verification
 - Role-based authorization (student/mentor)
